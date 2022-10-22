@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="" />
+    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,6 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -52,6 +58,9 @@
       <workItem from="1665818352467" duration="16000" />
       <workItem from="1665818386415" duration="4516000" />
       <workItem from="1666185141252" duration="42000" />
+      <workItem from="1666185262921" duration="3243000" />
+      <workItem from="1666421871449" duration="7464000" />
+      <workItem from="1666451632587" duration="654000" />
     </task>
     <servers />
   </component>
