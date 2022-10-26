@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_6/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_6/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,7 +62,8 @@
       <workItem from="1666451632587" duration="654000" />
       <workItem from="1666452384928" duration="27000" />
       <workItem from="1666721334204" duration="616000" />
-      <workItem from="1666773213630" duration="1230000" />
+      <workItem from="1666773213630" duration="1986000" />
+      <workItem from="1666786307699" duration="6464000" />
     </task>
     <servers />
   </component>
