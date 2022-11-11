@@ -1,0 +1,27 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(170,170,200);
+}
+tbody tr:first-child td{
+    background-color:  rgb(35,37,70);
+    color: rgb(200,190,240);
+}
+.vrij{
+    background-color:  rgb(250,120,120);
+}
+td:first-child, td:last-child{
+    background-color: rgb(255, 220, 220);
+}
+tr .andere{
+    background-color: lightgrey;
+    color: gray;
+}
+tbody, tr, td {
+    border-style: dotted;
+    border-collapse: collapse;
+}
+
+

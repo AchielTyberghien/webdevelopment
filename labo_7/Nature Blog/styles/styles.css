@@ -1,0 +1,40 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+    font-family: sans-serif,serif;
+}
+section > header {
+    background: url("../image/header.jpg");
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+section > nav{
+    background-color: rgba(68,68,68,0.93);
+    color: black;
+    height: 20px;
+    padding-top: 5px;
+}
+section > nav > a{
+    color: lightgreen;
+    text-decoration: none;
+    padding-left: 5px;
+}
+article{
+    background-color: lightgrey;
+    padding-left: 5px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    margin: 5px;
+
+}
+article h1 {
+    margin: 0 0;
+    background-color: lightgrey;
+    font-size: 25px;
+    color: rgba(68,68,68,0.93);
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
