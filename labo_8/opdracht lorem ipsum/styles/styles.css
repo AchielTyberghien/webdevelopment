@@ -1,0 +1,11 @@
+section{
+    display: inline-block;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 50%;
+    box-sizing: border-box;
+}
+p{
+    margin: 0;
+}

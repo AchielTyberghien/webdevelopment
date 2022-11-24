@@ -1,0 +1,16 @@
+section{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+p{
+    margin: 0;
+}
+.tekst{
+    margin-left: 10px;
+}

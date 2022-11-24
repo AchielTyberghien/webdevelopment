@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7/Nature Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Nature Blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7/Nature Blog/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Nature Blog/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7/Persoonlijke Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Persoonlijke Homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +36,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet.jsx&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -71,6 +70,12 @@
       <workItem from="1668151029029" duration="17975000" />
       <workItem from="1668183972428" duration="40000" />
       <workItem from="1668184116450" duration="343000" />
+      <workItem from="1668692747523" duration="1999000" />
+      <workItem from="1668867093348" duration="1195000" />
+      <workItem from="1669197053210" duration="142000" />
+      <workItem from="1669209863629" duration="5978000" />
+      <workItem from="1669219338623" duration="9569000" />
+      <workItem from="1669300953338" duration="3367000" />
     </task>
     <servers />
   </component>
