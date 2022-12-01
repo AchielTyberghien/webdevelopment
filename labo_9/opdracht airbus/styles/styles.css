@@ -1,0 +1,105 @@
+body > div:first-child{
+    background-image: url("../fotos/bgsky3.jpg");
+    height: 200px;
+    width: 960px;
+}
+body{
+    width: 960px;
+    margin: auto;
+    background-image: url("../fotos/pagebackground.png");
+    background-repeat: repeat-y;
+    background-position: center;
+    font-family: Arial,Helvetica sans-serif;
+}
+body > div:first-child p{
+    text-align: center;
+    color: darkblue;
+    font-size: 240%;
+    font-weight: bold;
+}
+body > div:first-child p:first-child{
+    font-size: 300%;
+    font-style:italic;
+    margin-top: 0;
+}
+body > div:first-child img {
+    margin-right: 90px;
+    float: right;
+    position: relative;
+    margin-top: -151.4px;
+}
+body > div:nth-child(2){
+    float: right;
+    width: 250px;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    color: #666666;
+    font-size: 90%;
+}
+body > div:nth-child(2) p{
+    padding: 0 10px;
+}
+body > div:nth-child(2) h3{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 120%
+}
+body > div:nth-child(3) div{
+    box-sizing: border-box;
+    width: 700px;
+}
+body > div:nth-child(3) > div:first-child img{
+    padding: 20px;
+    margin-bottom: 82px;
+    float: left;
+}
+body > div:nth-child(3) div:nth-child(2) p{
+    padding: 20px 30px 20px 0;
+    margin: 0;
+}
+body > div:nth-child(3) div:nth-child(2) p span{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+body > div:nth-child(3) > div:nth-child(3){
+    background-color: #999999;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.foto{
+    display: inline;
+    height: 0;
+
+}
+.foto img{
+    padding: 10px;
+    border: 1px dotted #999999;
+    background-color: white;
+    margin: 10px;
+}
+body > div:nth-child(4){
+    background-color: #666666;
+    color: white;
+}
+body > div:nth-child(4) div{
+    display: inline-block;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+body > div:nth-child(4) div ul{
+    margin: 0;
+    line-height: 2em;
+}
+body > div:nth-child(4) div ul a{
+    color: white;
+}
+body > div:nth-child(4) div ul a:hover{
+    color:red;
+}
+body > div:nth-child(5){
+    text-align: center;
+    color: black;
+}
