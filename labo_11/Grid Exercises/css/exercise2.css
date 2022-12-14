@@ -1,0 +1,13 @@
+.container{
+    background-color: cornflowerblue;
+}
+
+.container .block{
+    margin:50px;
+    padding:50px;
+    background-color: white;
+}
+main div{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
