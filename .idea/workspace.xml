@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="" />
+    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,21 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/labo_10/opdracht_personal_homepage/Styles&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet.jsx&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo1",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1" />
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\labo_10\opdracht_personal_homepage\Styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1\styles" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,6 +100,16 @@
       <workItem from="1670774180742" duration="1674000" />
       <workItem from="1670775903479" duration="698000" />
       <workItem from="1671023707512" duration="4219000" />
+      <workItem from="1671050698954" duration="13000" />
+      <workItem from="1673618498204" duration="1788000" />
+      <workItem from="1673683150274" duration="3167000" />
+      <workItem from="1673878784114" duration="3370000" />
+      <workItem from="1673945783350" duration="1253000" />
+      <workItem from="1673948700829" duration="2916000" />
+      <workItem from="1674026932895" duration="3321000" />
+      <workItem from="1675860877200" duration="681000" />
+      <workItem from="1676398601083" duration="506000" />
+      <workItem from="1676399362104" duration="535000" />
     </task>
     <servers />
   </component>
