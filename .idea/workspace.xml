@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sem2_labo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -38,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo2",
+    "last_opened_file_path": "C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo3/producten",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
@@ -46,18 +48,36 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo2" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\labo_10\opdracht_personal_homepage\Styles" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\producten" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\Colorpicker" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\opdracht_03" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\opdracht_02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1\styles" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/sem2_labo3/Colorpicker/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/sem2_labo3/opdracht_02/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="code.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code.js" working-dir="$PROJECT_DIR$/sem2_labo3/Colorpicker/scripts">
+      <method v="2" />
+    </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/sem2_labo2/opdracht substring screenshots)/script">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.code.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,6 +140,10 @@
       <workItem from="1676400009061" duration="31000" />
       <workItem from="1676638809732" duration="448000" />
       <workItem from="1676639498687" duration="9502000" />
+      <workItem from="1677679243122" duration="1218000" />
+      <workItem from="1677852672692" duration="2922000" />
+      <workItem from="1677913928953" duration="10647000" />
+      <workItem from="1678008279205" duration="5672000" />
     </task>
     <servers />
   </component>
@@ -143,13 +167,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/sem2_labo1/demo rekenmasjien/scripts/index.js</url>
           <line>42</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/sem2_labo1/demo rekenmasjien/scripts/index.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
