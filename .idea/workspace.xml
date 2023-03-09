@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem2_labo3/paragrafen/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2_labo1/leeg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo1/leeg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2_labo3/Colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo3/Colorpicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2_labo3/Colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo3/Colorpicker/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo3/producten",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo4/Man van an&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo4\Man van an" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo4\spaties" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo4\opdracht" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo4\invulformulier" />
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\producten" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\Colorpicker" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\opdracht_03" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo3\opdracht_02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1\styles" />
@@ -144,6 +144,12 @@
       <workItem from="1677852672692" duration="2922000" />
       <workItem from="1677913928953" duration="10647000" />
       <workItem from="1678008279205" duration="5672000" />
+      <workItem from="1678014073735" duration="95000" />
+      <workItem from="1678279991005" duration="9854000" />
+      <workItem from="1678296018558" duration="2685000" />
+      <workItem from="1678299240488" duration="598000" />
+      <workItem from="1678372908350" duration="2335000" />
+      <workItem from="1678380030940" duration="569000" />
     </task>
     <servers />
   </component>
