@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2_labo1/leeg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo1/leeg/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2_labo3/Colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo3/Colorpicker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2_labo3/Colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo3/Colorpicker/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2_labo4/spaties/script/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo4/spaties/script/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +147,8 @@
       <workItem from="1678299240488" duration="598000" />
       <workItem from="1678372908350" duration="2335000" />
       <workItem from="1678380030940" duration="569000" />
+      <workItem from="1678438689649" duration="1947000" />
+      <workItem from="1678444862475" duration="348000" />
     </task>
     <servers />
   </component>
