@@ -1,0 +1,10 @@
+.rij1{
+    width: 150px;
+    display: inline-block;
+}
+div{
+    margin: 10px;
+}
+div:nth-child(4) label{
+    float: left;
+}
