@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,19 +37,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo5/Formwaarden&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo6/extra_op3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo5\Formwaarden" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo5\gemeente" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo5\Deenhet" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo5\trigrams" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo5" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo6\extra_op3" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo6\extra_op2\image" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo6\extra_op2" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo6" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo6\dom_tree_nodes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo1\styles" />
@@ -149,6 +156,15 @@
       <workItem from="1678884617792" duration="10308000" />
       <workItem from="1678901248511" duration="5559000" />
       <workItem from="1678975792916" duration="7985000" />
+      <workItem from="1679217999332" duration="90000" />
+      <workItem from="1679311030698" duration="2000" />
+      <workItem from="1679494800644" duration="476000" />
+      <workItem from="1679495407090" duration="37000" />
+      <workItem from="1679495668950" duration="50000" />
+      <workItem from="1679495727604" duration="5024000" />
+      <workItem from="1679504664581" duration="1728000" />
+      <workItem from="1679578653292" duration="1370000" />
+      <workItem from="1679729803913" duration="9260000" />
     </task>
     <servers />
   </component>
