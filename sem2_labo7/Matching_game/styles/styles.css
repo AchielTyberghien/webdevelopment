@@ -1,0 +1,14 @@
+.speelveld {
+    display: grid;
+    grid-template: repeat(3, auto) / repeat(4, auto);
+    grid-gap: 10px;
+}
+#veld{
+    justify-content: left;
+    align-items: start;
+}
+.size{
+    height: 10rem;
+    width: 10rem;
+    position: relative;
+}
