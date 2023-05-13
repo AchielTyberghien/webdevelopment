@@ -45,7 +45,7 @@ const save = () => {
 const uploadColor = (event) => {
 	let target = event.target;
 	let currentTarget =event.currentTarget
-	if (target == currentTarget){
+	if (target === currentTarget){
 		let swatch = document.querySelector("#swatch");
 		swatch.style.backgroundColor = target.style.backgroundColor;
 		let rgb = target.style.backgroundColor.split(",");

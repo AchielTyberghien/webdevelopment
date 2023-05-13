@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="" />
+    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem2_labo9/oplossing colorpicker(1)/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo9/oplossing colorpicker(1)/scripts/code.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achiel/Documents/Achiel/Vives/eerste bachelor/Web development 1/Github/webdevelopment/sem2_labo10/My_internet_start_page/styles&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -50,11 +54,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo10\My_internet_start_page\styles" />
+      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo10" />
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo8" />
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo8\Opdracht_JSON" />
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo8\opdracht_date" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo7\Matching_game" />
-      <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo7\hit an object" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Achiel\Documents\Achiel\Vives\eerste bachelor\Web development 1\Github\webdevelopment\sem2_labo7\hit an object" />
@@ -177,6 +181,13 @@
       <workItem from="1682511156902" duration="3191000" />
       <workItem from="1682515871998" duration="5334000" />
       <workItem from="1682521326841" duration="55000" />
+      <workItem from="1683104744889" duration="356000" />
+      <workItem from="1683114839328" duration="11053000" />
+      <workItem from="1683130783775" duration="5296000" />
+      <workItem from="1683202016351" duration="894000" />
+      <workItem from="1683737213484" duration="614000" />
+      <workItem from="1683811813811" duration="1800000" />
+      <workItem from="1683980349796" duration="7095000" />
     </task>
     <servers />
   </component>
