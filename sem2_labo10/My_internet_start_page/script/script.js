@@ -126,7 +126,10 @@ const savecards = () => {
 }
 const restorecards = () => {
     let tekstcardsave = localStorage.getItem("cardsave");
-    cardsave = JSON.parse(tekstcardsave);
+    restorecardsave = JSON.parse(tekstcardsave);
+    for (const cardsfile of restorecardsave) {
+        cardsave.push(cardsfile)
+    }
     for (const cardfile of cardsave) {
         let cardfield = document.querySelector(".cardfield")
         let card = document.createElement("div")

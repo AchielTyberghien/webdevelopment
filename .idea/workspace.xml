@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem2_labo9/oplossing colorpicker(1)/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/sem2_labo9/oplossing colorpicker(1)/scripts/code.js" afterDir="false" />
-    </list>
+    <list default="true" id="4bb54a55-3c68-4e94-98ab-c4fc84327882" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,6 +184,8 @@
       <workItem from="1683737213484" duration="614000" />
       <workItem from="1683811813811" duration="1800000" />
       <workItem from="1683980349796" duration="7095000" />
+      <workItem from="1684229640605" duration="924000" />
+      <workItem from="1684260095987" duration="904000" />
     </task>
     <servers />
   </component>
